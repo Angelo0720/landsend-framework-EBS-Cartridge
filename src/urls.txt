@@ -1,0 +1,4 @@
+git@innersource.accenture.com:adop-b-framework---oracle-ebs/ec2-create.git
+git@innersource.accenture.com:adop-b-framework---oracle-ebs/oracle-ebs-cloning-211.git
+
+
